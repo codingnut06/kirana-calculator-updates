@@ -1,0 +1,17 @@
+
+{
+  "appName": "Kirana Calculator",
+  "packageName": "com.aistudio.kiranacalculator.qvmkzt",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "releaseDate": "2026-09-26",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "whatsNew": [
+    "App performance improvements",
+    "Bug fixes and stability improvements"
+  ],
+  "apkUrl": "https://github.com/codingnut06/kirana-calculator-updates/releases/download/v1.1/KiranaCalculator-v1.1.apk",
+  "apkSizeBytes": 0,
+  "sha256": "REPLACE_WITH_REAL_SHA256"
+}
