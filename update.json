@@ -5,7 +5,7 @@
   "versionName": "1.2",
   "releaseDate": "2026-09-26",
   "minSupportedVersionCode": 1,
-  "forceUpdate": true,
+  "forceUpdate": false,
   "whatsNew": [
     "App performance improvements",
     "Bug fixes and stability improvements"
