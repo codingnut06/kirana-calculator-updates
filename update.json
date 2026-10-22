@@ -1,16 +1,17 @@
 {
   "appName": "Kirana Calculator",
   "packageName": "com.codingut.kiranacalculator",
-  "versionCode": 3,
-  "versionName": "1.2",
-  "releaseDate": "2026-09-26",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "releaseDate": "2026-10-22",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
   "whatsNew": [
     "App performance improvements",
-    "Bug fixes and stability improvements"
+    "Bug fixes and stability improvements",
+    "Improved Settings"
   ],
-  "apkUrl": "https://github.com/codingnut06/kirana-calculator-updates/releases/download/v1.2/KiranaCalculator-v1.2.apk",
-  "apkSizeBytes": 15635127,
-  "sha256": "sha256:391aad7dd5173c3f1ab208fe133a7e857021fd2030588d1928499ccf03827167"
+  "apkUrl": "https://github.com/codingnut06/KiranaCalculator-v1/releases/download/v1.3-build11/app-release.apk",
+  "apkSizeBytes": 16457640,
+  "sha256": "sha256:1c40b2c98db48ceecf28f51307008afa1ae6dbcdbd5ee5031130bc6e0eb118bd"
 }
